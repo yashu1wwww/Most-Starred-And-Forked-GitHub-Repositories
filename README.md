@@ -34,6 +34,32 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/freeCodeCamp/freeCodeCamp.svg?style=social)
 
 
+< [3.awesome](https://github.com/sindresorhus/awesome) >
+
+![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/sindresorhus/awesome.svg?style=social)
+
+![GitHub issues](https://img.shields.io/github/issues/sindresorhus/awesome.svg?style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/sindresorhus/awesome.svg?style=social)
+
+
+< [4.coding-interview-university](https://github.com/jwasham/coding-interview-university) >
+
+![GitHub stars](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/jwasham/coding-interview-university.svg?style=social)
+
+![GitHub issues](https://img.shields.io/github/issues/jwasham/coding-interview-university.svg?style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jwasham/coding-interview-university.svg?style=social)
+
+
+
+
+
+
 
 
 
