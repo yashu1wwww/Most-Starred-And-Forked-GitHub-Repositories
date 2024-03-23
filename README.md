@@ -113,7 +113,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/codecrafters-io/build-your-own-x.svg?style=social)
 
 
-< [10.react](https://github.com/https://github.com/facebook/react) >
+< [10.react](https://github.com/facebook/react) >
 
 ![GitHub stars](https://img.shields.io/github/stars/facebook/react.svg?style=social)
 
