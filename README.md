@@ -14,23 +14,23 @@
 
 < [1.freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) >
 
-[![GitHub stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp.svg?style=social)](https://github.com/freeCodeCamp/freeCodeCamp)
+![GitHub stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp.svg?style=social)
 
-[![GitHub forks](https://img.shields.io/github/forks/freeCodeCamp/freeCodeCamp.svg?style=social)](https://github.com/freeCodeCamp/freeCodeCamp)
+![GitHub forks](https://img.shields.io/github/forks/freeCodeCamp/freeCodeCamp.svg?style=social)
 
-[![GitHub issues](https://img.shields.io/github/issues/freeCodeCamp/freeCodeCamp.svg?style=social)](https://github.com/freeCodeCamp/freeCodeCamp)
+![GitHub issues](https://img.shields.io/github/issues/freeCodeCamp/freeCodeCamp.svg?style=social)
 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/freeCodeCamp/freeCodeCamp.svg?style=social)](https://github.com/freeCodeCamp/freeCodeCamp)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/freeCodeCamp/freeCodeCamp.svg?style=social)
 
 < [2.free-programming-books](https://github.com/EbookFoundation/free-programming-books) >
 
-[![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books.svg?style=social)](https://github.com/EbookFoundation/free-programming-books)
+![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books.svg?style=social)
 
-[![GitHub forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books.svg?style=social)](https://github.com/EbookFoundation/free-programming-books)
+![GitHub forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books.svg?style=social)
 
-[![GitHub issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books.svg?style=social)](https://github.com/EbookFoundation/free-programming-books)
+![GitHub issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books.svg?style=social)
 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/freeCodeCamp/freeCodeCamp.svg?style=social)](https://github.com/EbookFoundation/free-programming-books)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/freeCodeCamp/freeCodeCamp.svg?style=social)
 
 < [3.freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) >
 
