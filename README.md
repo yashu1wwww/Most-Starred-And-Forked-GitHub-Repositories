@@ -56,6 +56,15 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/jwasham/coding-interview-university.svg?style=social)
 
 
+< [5.996.ICU](https://github.com/996icu/996.ICU) >
+
+![GitHub stars](https://img.shields.io/github/stars/996icu/996.ICU.svg?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/996icu/996.ICU.svg?style=social)
+
+![GitHub issues](https://img.shields.io/github/issues/996icu/996.ICU.svg?style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/996icu/996.ICU.svg?style=social)
 
 
 
@@ -63,6 +72,9 @@
 
 
 
- < If there is any incorrect information, please fork it >
+
+
+
+# < If there is any incorrect information, please fork it >
 
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
