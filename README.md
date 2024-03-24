@@ -47,7 +47,18 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/sindresorhus/awesome.svg?style=social)
 
 
-< [4.coding-interview-university](https://github.com/jwasham/coding-interview-university) >
+< [4.public-apis](https://github.com/public-apis/public-apis) >
+
+![GitHub stars](https://img.shields.io/github/stars/public-apis/public-apis.svg?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/public-apis/public-apis.svg?style=social)
+
+![GitHub issues](https://img.shields.io/github/issues/public-apis/public-apis.svg?style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/public-apis/public-apis.svg?style=social)
+
+
+< [5.coding-interview-university](https://github.com/jwasham/coding-interview-university) >
 
 ![GitHub stars](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg?style=social)
 
@@ -58,7 +69,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/jwasham/coding-interview-university.svg?style=social)
 
 
-< [5.developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) >
+< [6.developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) >
 
 ![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap.svg?style=social)
 
@@ -69,7 +80,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/kamranahmedse/developer-roadmap.svg?style=social)
 
 
-< [6.996.ICU](https://github.com/996icu/996.ICU) >
+< [7.996.ICU](https://github.com/996icu/996.ICU) >
 
 ![GitHub stars](https://img.shields.io/github/stars/996icu/996.ICU.svg?style=social)
 
@@ -78,17 +89,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/996icu/996.ICU.svg?style=social)
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/996icu/996.ICU.svg?style=social)
-
-
-< [7.public-apis](https://github.com/public-apis/public-apis) >
-
-![GitHub stars](https://img.shields.io/github/stars/public-apis/public-apis.svg?style=social)
-
-![GitHub forks](https://img.shields.io/github/forks/public-apis/public-apis.svg?style=social)
-
-![GitHub issues](https://img.shields.io/github/issues/public-apis/public-apis.svg?style=social)
-
-![GitHub pull requests](https://img.shields.io/github/issues-pr/public-apis/public-apis.svg?style=social)
 
 
 < [8.build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) >
