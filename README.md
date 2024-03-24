@@ -129,7 +129,7 @@
 # < If there is any incorrect information, please fork it >
 
 
- # For Most Followers On Github List 👇:
+ # For Most Followers On Github List 👇
 
   [Most Followers On Github](https://github.com/yashu1wwww/Most-Followers-On-GitHub) 
  
