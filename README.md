@@ -69,18 +69,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/jwasham/coding-interview-university.svg?style=social)
 
 
-< [6.developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) >
-
-![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap.svg?style=social)
-
-![GitHub forks](https://img.shields.io/github/forks/kamranahmedse/developer-roadmap.svg?style=social)
-
-![GitHub issues](https://img.shields.io/github/issues/kamranahmedse/developer-roadmap.svg?style=social)
-
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kamranahmedse/developer-roadmap.svg?style=social)
-
-
-< [7.build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) >
+< [6.build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) >
 
 ![GitHub stars](https://img.shields.io/github/stars/codecrafters-io/build-your-own-x.svg?style=social)
 
@@ -89,6 +78,17 @@
 ![GitHub issues](https://img.shields.io/github/issues/codecrafters-io/build-your-own-x.svg?style=social)
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/codecrafters-io/build-your-own-x.svg?style=social)
+
+
+< [7.developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) >
+
+![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap.svg?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/kamranahmedse/developer-roadmap.svg?style=social)
+
+![GitHub issues](https://img.shields.io/github/issues/kamranahmedse/developer-roadmap.svg?style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kamranahmedse/developer-roadmap.svg?style=social)
 
 
 < [8.996.ICU](https://github.com/996icu/996.ICU) >
