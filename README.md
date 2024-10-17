@@ -123,6 +123,12 @@
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/facebook/react.svg?style=social)
 
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-13803-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10578-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-7808-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4625-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4522-brightgreen)
+
 
 
 
