@@ -91,18 +91,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/kamranahmedse/developer-roadmap.svg?style=social)
 
 
-< [8.996.ICU](https://github.com/996icu/996.ICU) >
-
-![GitHub stars](https://img.shields.io/github/stars/996icu/996.ICU.svg?style=social)
-
-![GitHub forks](https://img.shields.io/github/forks/996icu/996.ICU.svg?style=social)
-
-![GitHub issues](https://img.shields.io/github/issues/996icu/996.ICU.svg?style=social)
-
-![GitHub pull requests](https://img.shields.io/github/issues-pr/996icu/996.ICU.svg?style=social)
-
-
-< [9.system-design-primer](https://github.com/donnemartin/system-design-primer) >
+< [8.system-design-primer](https://github.com/donnemartin/system-design-primer) >
 
 ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg?style=social)
 
@@ -111,6 +100,17 @@
 ![GitHub issues](https://img.shields.io/github/issues/donnemartin/system-design-primer.svg?style=social)
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/donnemartin/system-design-primer.svg?style=social)
+
+
+< [9.996.ICU](https://github.com/996icu/996.ICU) >
+
+![GitHub stars](https://img.shields.io/github/stars/996icu/996.ICU.svg?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/996icu/996.ICU.svg?style=social)
+
+![GitHub issues](https://img.shields.io/github/issues/996icu/996.ICU.svg?style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/996icu/996.ICU.svg?style=social)
 
 
 < [10.react](https://github.com/facebook/react) >
