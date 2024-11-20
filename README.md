@@ -126,16 +126,25 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Top 5 Most Lined Code For A Single File in github
 
+1. [![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-13803-brightgreen)](https://github.com/pandas-dev/pandas/blob/main/pandas/core/frame.py)  
+   Repository: `pandas-dev/pandas`  
+   File: `pandas/core/frame.py`
 
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-13803-brightgreen)](https://github.com/pandas-dev/pandas/blob/main/pandas/core/frame.py)
+2. [![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10578-brightgreen)](https://github.com/torvalds/linux/blob/master/kernel/sched/core.c)  
+   Repository: `torvalds/linux`  
+   File: `kernel/sched/core.c`
 
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10578-brightgreen)](https://github.com/torvalds/linux/blob/master/kernel/sched/core.c)
+3. [![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-7808-brightgreen)](https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/api/core/v1/types.go)  
+   Repository: `kubernetes/kubernetes`  
+   File: `staging/src/k8s.io/api/core/v1/types.go`
 
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-7808-brightgreen)](https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/api/core/v1/types.go)
+4. [![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4625-brightgreen)](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost/blob/main/video.py)  
+   Repository: `yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost`  
+   File: `video.py`
 
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4625-brightgreen)](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost/blob/main/video.py)
-
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4522-brightgreen)](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost/blob/main/shorts.py)
+5. [![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4522-brightgreen)](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost/blob/main/shorts.py)  
+   Repository: `yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost`  
+   File: `shorts.py`
 
 
 # < If there is any incorrect information, please fork it >
