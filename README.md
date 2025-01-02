@@ -58,18 +58,8 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/public-apis/public-apis.svg?style=social)
 
 
-< [5.coding-interview-university](https://github.com/jwasham/coding-interview-university) >
 
-![GitHub stars](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg?style=social)
-
-![GitHub forks](https://img.shields.io/github/forks/jwasham/coding-interview-university.svg?style=social)
-
-![GitHub issues](https://img.shields.io/github/issues/jwasham/coding-interview-university.svg?style=social)
-
-![GitHub pull requests](https://img.shields.io/github/issues-pr/jwasham/coding-interview-university.svg?style=social)
-
-
-< [6.build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) >
+< [5.build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) >
 
 ![GitHub stars](https://img.shields.io/github/stars/codecrafters-io/build-your-own-x.svg?style=social)
 
@@ -78,6 +68,18 @@
 ![GitHub issues](https://img.shields.io/github/issues/codecrafters-io/build-your-own-x.svg?style=social)
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/codecrafters-io/build-your-own-x.svg?style=social)
+
+
+
+< [6.coding-interview-university](https://github.com/jwasham/coding-interview-university) >
+
+![GitHub stars](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/jwasham/coding-interview-university.svg?style=social)
+
+![GitHub issues](https://img.shields.io/github/issues/jwasham/coding-interview-university.svg?style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jwasham/coding-interview-university.svg?style=social)
 
 
 < [7.developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) >
@@ -89,6 +91,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/kamranahmedse/developer-roadmap.svg?style=social)
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/kamranahmedse/developer-roadmap.svg?style=social)
+
 
 
 < [8.system-design-primer](https://github.com/donnemartin/system-design-primer) >
