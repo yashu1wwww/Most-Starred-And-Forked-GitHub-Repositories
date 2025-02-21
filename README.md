@@ -127,27 +127,32 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/facebook/react.svg?style=social)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Top 5 Most Lined Code For A Single File in github
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-13803-brightgreen)](https://github.com/pandas-dev/pandas/blob/main/pandas/core/frame.py)  
-   Repository: `pandas-dev/pandas`  
-   File: `pandas/core/frame.py`
+   # Top 5 Most Lined Code For A Single File in GitHub
 
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10578-brightgreen)](https://github.com/torvalds/linux/blob/master/kernel/sched/core.c)  
-   Repository: `torvalds/linux`  
-   File: `kernel/sched/core.c`
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-13803-brightgreen)
+<br>
+**Repository:** [`pandas-dev/pandas`](https://github.com/pandas-dev/pandas)  
+**File:** `pandas/core/frame.py`
 
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-7808-brightgreen)](https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/api/core/v1/types.go)  
-   Repository: `kubernetes/kubernetes`  
-   File: `staging/src/k8s.io/api/core/v1/types.go`
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10578-brightgreen)
+<br>
+**Repository:** [`torvalds/linux`](https://github.com/torvalds/linux)  
+**File:** `kernel/sched/core.c`
 
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4625-brightgreen)](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost/blob/main/video.py)  
-   Repository: `yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost`  
-   File: `video.py`
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-7808-brightgreen)
+<br>
+**Repository:** [`kubernetes/kubernetes`](https://github.com/kubernetes/kubernetes)  
+**File:** `staging/src/k8s.io/api/core/v1/types.go`
 
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4522-brightgreen)](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost/blob/main/shorts.py)  
-   Repository: `yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost`  
-   File: `shorts.py`
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4625-brightgreen)
+<br>
+**Repository:** [`yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost`](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost)  
+**File:** `video.py`
 
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4522-brightgreen)
+<br>
+**Repository:** [`yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost`](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost)  
+**File:** `shorts.py`
 
 # < If there is any incorrect information, please fork it >
 
