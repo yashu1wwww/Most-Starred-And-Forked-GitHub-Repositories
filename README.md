@@ -139,7 +139,7 @@
 **Repository:** [`torvalds/linux`](https://github.com/torvalds/linux)  
 **File:** `kernel/sched/core.c`
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-7808-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-8477-brightgreen)
 <br>
 **Repository:** [`kubernetes/kubernetes`](https://github.com/kubernetes/kubernetes)  
 **File:** `staging/src/k8s.io/api/core/v1/types.go`
