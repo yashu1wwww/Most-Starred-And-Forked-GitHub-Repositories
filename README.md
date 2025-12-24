@@ -127,31 +127,47 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/facebook/react.svg?style=social)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-   # Top 5 Most Lined Code For A Single File in GitHub
+
+  # Top 5 Most Lined Code For A Single File in GitHub
 
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-15127-brightgreen)
 <br>
-**Repository:** [`pandas-dev/pandas`](https://github.com/pandas-dev/pandas)  
-**File:** `pandas/core/frame.py`
+**Repository:** [pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
+**File:**  
+https://github.com/pandas-dev/pandas/blob/main/pandas/core/frame.py  
 
-[Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10823-brightgreen)
+---
+
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10823-brightgreen)
 <br>
-**Repository:** [`pandas-dev/pandas`](https://github.com/Microsoft/TypeScript)  
-**File:** `/blob/main/src/compiler/parser.ts`
+**Repository:** [Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)  
+**File:**  
+https://github.com/microsoft/TypeScript/blob/main/src/compiler/parser.ts  
 
+---
 
-![Lines of Code]
-(https://img.shields.io/badge/Lines%20of%20Code-10829-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10829-brightgreen)
 <br>
-**Repository:** [`torvalds/linux`](https://github.com/torvalds/linux)  
-**File:** `kernel/sched/core.c`
+**Repository:** [torvalds/linux](https://github.com/torvalds/linux)  
+**File:**  
+https://github.com/torvalds/linux/blob/master/kernel/sched/core.c  
 
-https://github.com/facebookincubator/Portal-Kernel/blob/master/kernel/sched/core.c - 9646
+---
+
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-9646-brightgreen)
+<br>
+**Repository:** [facebookincubator/Portal-Kernel](https://github.com/facebookincubator/Portal-Kernel)  
+**File:**  
+https://github.com/facebookincubator/Portal-Kernel/blob/master/kernel/sched/core.c  
+
+---
 
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-8477-brightgreen)
 <br>
-**Repository:** [`kubernetes/kubernetes`](https://github.com/kubernetes/kubernetes)  
-**File:** `staging/src/k8s.io/api/core/v1/types.go`
+**Repository:** [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)  
+**File:**  
+https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/api/core/v1/types.go  
+ 
 
 
 
