@@ -149,7 +149,7 @@
 **Repository:** [`yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost`](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost)  
 **File:** `video.py`
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4522-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-4525-brightgreen)
 <br>
 **Repository:** [`yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost`](https://github.com/yashu1wwww/5000-Auto-YouTube-Comments-Using-Localhost)  
 **File:** `shorts.py`
