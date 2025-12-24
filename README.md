@@ -129,7 +129,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
    # Top 5 Most Lined Code For A Single File in GitHub
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-13803-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-15127-brightgreen)
 <br>
 **Repository:** [`pandas-dev/pandas`](https://github.com/pandas-dev/pandas)  
 **File:** `pandas/core/frame.py`
