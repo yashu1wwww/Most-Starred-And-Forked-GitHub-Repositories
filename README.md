@@ -128,7 +128,16 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  # Top 5 Most Lined Code For A Single File in GitHub
+
+ # Top 5 Most Lined Code For A Single File in GitHub[Updates Time To Time]
+
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-54212-red)
+<br>
+**Repository:** [dotnet/runtime](https://github.com/dotnet/runtime)  
+**File:**  
+https://github.com/dotnet/runtime/blob/main/src/coreclr/gc/gc.cpp  
+
+---
 
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-15127-brightgreen)
 <br>
@@ -138,15 +147,7 @@ https://github.com/pandas-dev/pandas/blob/main/pandas/core/frame.py
 
 ---
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10823-brightgreen)
-<br>
-**Repository:** [Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)  
-**File:**  
-https://github.com/microsoft/TypeScript/blob/main/src/compiler/parser.ts  
-
----
-
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10829-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10829-green)
 <br>
 **Repository:** [torvalds/linux](https://github.com/torvalds/linux)  
 **File:**  
@@ -154,21 +155,19 @@ https://github.com/torvalds/linux/blob/master/kernel/sched/core.c
 
 ---
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-9646-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10823-blue)
+<br>
+**Repository:** [Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)  
+**File:**  
+https://github.com/microsoft/TypeScript/blob/main/src/compiler/parser.ts  
+
+---
+
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-9646-orange)
 <br>
 **Repository:** [facebookincubator/Portal-Kernel](https://github.com/facebookincubator/Portal-Kernel)  
 **File:**  
 https://github.com/facebookincubator/Portal-Kernel/blob/master/kernel/sched/core.c  
-
----
-
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-8477-brightgreen)
-<br>
-**Repository:** [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)  
-**File:**  
-https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/api/core/v1/types.go  
- 
-
 
 
 
