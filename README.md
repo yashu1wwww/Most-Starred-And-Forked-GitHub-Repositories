@@ -133,7 +133,8 @@
 
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-54212-red)
 <br>
-**Repository:** [dotnet/runtime](https://github.com/dotnet/runtime)  
+**Repository:** [dotnet/runtime](https://github.com/dotnet/runtime) 
+<br>
 **File:**  
 https://github.com/dotnet/runtime/blob/main/src/coreclr/gc/gc.cpp  
 
@@ -142,6 +143,7 @@ https://github.com/dotnet/runtime/blob/main/src/coreclr/gc/gc.cpp
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-15127-brightgreen)
 <br>
 **Repository:** [pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
+<br>
 **File:**  
 https://github.com/pandas-dev/pandas/blob/main/pandas/core/frame.py  
 
@@ -149,7 +151,8 @@ https://github.com/pandas-dev/pandas/blob/main/pandas/core/frame.py
 
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10829-green)
 <br>
-**Repository:** [torvalds/linux](https://github.com/torvalds/linux)  
+**Repository:** [torvalds/linux](https://github.com/torvalds/linux) 
+<br>
 **File:**  
 https://github.com/torvalds/linux/blob/master/kernel/sched/core.c  
 
@@ -157,7 +160,8 @@ https://github.com/torvalds/linux/blob/master/kernel/sched/core.c
 
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10823-blue)
 <br>
-**Repository:** [Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)  
+**Repository:** [Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)
+<br>
 **File:**  
 https://github.com/microsoft/TypeScript/blob/main/src/compiler/parser.ts  
 
@@ -166,11 +170,12 @@ https://github.com/microsoft/TypeScript/blob/main/src/compiler/parser.ts
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-9646-orange)
 <br>
 **Repository:** [facebookincubator/Portal-Kernel](https://github.com/facebookincubator/Portal-Kernel)  
+<br>
 **File:**  
 https://github.com/facebookincubator/Portal-Kernel/blob/master/kernel/sched/core.c  
 
 
-
+---
 
 [Most Followers On Github](https://github.com/yashu1wwww/Most-Followers-On-GitHub) 
  
