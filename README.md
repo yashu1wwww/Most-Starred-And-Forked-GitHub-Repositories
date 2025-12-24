@@ -134,7 +134,7 @@
 **Repository:** [`pandas-dev/pandas`](https://github.com/pandas-dev/pandas)  
 **File:** `pandas/core/frame.py`
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10578-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10829-brightgreen)
 <br>
 **Repository:** [`torvalds/linux`](https://github.com/torvalds/linux)  
 **File:** `kernel/sched/core.c`
