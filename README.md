@@ -180,3 +180,5 @@ https://github.com/facebookincubator/Portal-Kernel/blob/master/kernel/sched/core
 [Most Followers On Github](https://github.com/yashu1wwww/Most-Followers-On-GitHub) 
  
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
+
+Highest followed GitHub user on tumkur
